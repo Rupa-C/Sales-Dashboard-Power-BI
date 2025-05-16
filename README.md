@@ -1,5 +1,6 @@
 # Sales-Dashboard-Power-BI
-📌 Title: Power BI Sales Return Analysis Dashboard
+**📌 Title: Power BI Sales Return Analysis Dashboard**
+
 **Description:**
 Developed an interactive Power BI dashboard to analyze return trends from ~10K orders across regions and product categories. The report highlights return rates, monthly trends, and profitability impacts to help stakeholders make data-driven decisions.
 
