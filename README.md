@@ -34,7 +34,3 @@ Published project on GitHub to demonstrate expertise in data modeling, report de
 2. Open it using Power BI Desktop.
 3. Interact with the dashboard using the provided filters and visuals.
 
-## 👤 Author
-
-- **Name**: Rupa
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
