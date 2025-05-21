@@ -24,7 +24,7 @@ An interactive Power BI dashboard analyzing ~10K orders to uncover return trends
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.PNG)
 
 ## 📈 How to Use
 
