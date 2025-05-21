@@ -1,26 +1,38 @@
-# Sales-Dashboard-Power-BI
-**📌 Title: Power BI Sales Return Analysis Dashboard**
+# 📊 Sales Return Analysis Dashboard
 
-**Description:**
-Developed an interactive Power BI dashboard to analyze return trends from ~10K orders across regions and product categories. The report highlights return rates, monthly trends, and profitability impacts to help stakeholders make data-driven decisions.
+## 📝 Project Overview
 
-**Key Features:**
+An interactive Power BI dashboard analyzing ~10K orders to uncover return trends by region and category. Utilizes DAX and Power Query for dynamic KPIs and actionable insights.
 
-Dynamic KPIs (Total Orders, Return Rate %, Returned Sales & Profit)
+## 🚀 Features
 
-Region and Category breakdowns using bar charts and matrix visual
+- Dynamic KPIs: Total Orders, Return Rate %, Returned Sales & Profit.
+- Monthly return trends visualization.
+- Breakdown of returned orders by region and category.
+- Interactive filters for Month, Region, Category, and Salesperson.
+- Summary table with detailed return metrics.
 
-Monthly return trend line chart to identify seasonal return patterns
+## 🛠️ Technologies Used
 
-Slicers for Month, Region, Category, and Salesperson filtering
+- Power BI Desktop
+- Power Query Editor
+- DAX (Data Analysis Expressions)
 
-**Insights Delivered:**
+## 📂 File
 
-Identified West region as a return hotspot
+- `Sales_Return_Analysis.pbix` – Power BI dashboard file.
 
-Technology category contributes highest to profit loss in returns
+## 📸 Dashboard Preview
 
-Suggested operational improvements during high-return months
+![Dashboard Preview](dashboard_preview.png)
 
-**Tools Used:**
-Power BI | DAX | Data Modeling | Power Query | Data Visualization
+## 📈 How to Use
+
+1. Download the `.pbix` file.
+2. Open it using Power BI Desktop.
+3. Interact with the dashboard using the provided filters and visuals.
+
+## 👤 Author
+
+- **Name**: Rupa
+- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
