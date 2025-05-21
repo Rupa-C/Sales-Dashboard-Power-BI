@@ -2,7 +2,9 @@
 
 ## 📝 Project Overview
 
-An interactive Power BI dashboard analyzing ~10K orders to uncover return trends by region and category. Utilizes DAX and Power Query for dynamic KPIs and actionable insights.
+**Power BI Sales Return Dashboard**  
+Designed an interactive Power BI dashboard analyzing ~10K orders to uncover return trends by region and category, leveraging DAX and Power Query for dynamic KPIs and visual insights.  
+Published project on GitHub to demonstrate expertise in data modeling, report design, and storytelling with data.  
 
 ## 🚀 Features
 
